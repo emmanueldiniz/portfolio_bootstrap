@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+My portfolio bootstrap V0.1
 
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
